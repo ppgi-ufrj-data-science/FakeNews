@@ -24,11 +24,16 @@
       <h3>Detalhamento e descrição textual  da definição do problema a ser explorado pela equipe:</h3>
       <p>TODO.</p>
       <h3>Descrever tecnicamente o dataset e sua fonte,  o que pretendem fazer e o que vão e como extrair (plano dos experimentos):</h3>
-      <p>TODO.</p>
+      <p>TODO</p>
       <h3>Apresentar os objetivos geral e específico do projeto de DS:</h3>
       <p>TODO.</p>
       <h3>Apresentar métodos de data cleaning/tratamento de dados que serão usados:</h3>
-      <p>TODO.</p>
+      <p>Métodos de data cleaning/tratamento de dados:
+        1. Com o Dataset escolhido
+        2. Verificar se existe a falta de dados, dados nulos, etc.
+        3. Se existe falta de dados, por exemplo, usar os métodos que usa o pandas vistos na última aula. Cada dataset tem suas próprias características. 
+        4. Antes de aplicar qualquer método, devem pensar sobre o dado ou os dados, eles são relevantes para o estudo? Eliminar? substituir? usar Zero? Por quê?
+      </p>
       <h3>Apresentar a proposta de modelo de extração de conhecimento e visualização de dados que será adotado:</h3>
     </div>
   </body>
